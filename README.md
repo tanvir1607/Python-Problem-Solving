@@ -1,2 +1,2 @@
 - **A_Counting** | https://atcoder.jp/contests/abc209/tasks/abc209_a
-- - **A_Find_Multiple** | https://atcoder.jp/contests/abc220/tasks/abc220_a
+-  **A_Find_Multiple** | https://atcoder.jp/contests/abc220/tasks/abc220_a
