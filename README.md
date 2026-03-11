@@ -1,3 +1,4 @@
 - **A_Biscuit_Generator** | https://atcoder.jp/contests/abc125/tasks/abc125_a?lang=en
+- **A_Buttons** | https://atcoder.jp/contests/abc125/tasks/abc125_a?lang=en
 - **A_Counting** | https://atcoder.jp/contests/abc209/tasks/abc209_a
 -  **A_Find_Multiple** | https://atcoder.jp/contests/abc220/tasks/abc220_a
